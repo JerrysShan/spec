@@ -10,8 +10,8 @@ The specification will write by Chinese and will not translate to another langua
 
 ## 文档目录 The Documentation
 
-[0. 格式约定](./documentation/0.convention.md)
-[1. 介绍](./documentation/1.introduction.md)
+- [0. 格式约定](./documentation/0.convention.md)
+- [1. 介绍](./documentation/1.introduction.md)
 
 ## 讨论机制 Discussion
 
